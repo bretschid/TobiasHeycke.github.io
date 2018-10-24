@@ -8,8 +8,8 @@ Welcome to my personal homepage. I am a postdoctoal researcher at [GESIS](https:
 [Institute Homepage](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory%5bemail%5d=Tobias.Heycke@gesis.org&tx_gextstaffdir_staffdirectory%5baction%5d=details&tx_gextstaffdir_staffdirectory%5bcontroller%5d=Index&no_cache=1) |
 [Curriculum vitae](#curriculum-vitae) |
 [Publications](#publications) |
-[Talks](#Talks) |
-[Teaching](#Teaching)
+[Talks](#talks) |
+[Teaching](#teaching)
 
 # Curriculum vitae
 
