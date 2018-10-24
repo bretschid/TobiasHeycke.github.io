@@ -42,21 +42,36 @@ Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fri
 
 # Talks & Teaching
 
+[Complete List of talks and teaching](pages/talks.md)
+
 ## Selection of seminars
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac cursus tellus. Praesent ullamcorper dapibus felis sit amet egestas. Aliquam et felis ut metus placerat eleifend a ut arcu. Cras efficitur facilisis felis, ultrices ultricies nulla mattis sed. Curabitur lacus dolor, lacinia id mollis quis, dictum ut orci. Quisque vitae lacinia risus, eget egestas elit. Duis placerat quis sapien non cursus. In id iaculis mi. Etiam sit amet egestas enim, in tincidunt 
+- Statistics 1 (University of Cologne, Bachelor Psychology)
+- Statistics 2 (University of Cologne, Bachelor Psychology)
+- Research Training (University of Cologne, Bachelor Psychology)
+- Theoretical and methodological foundations of Psychology (University of Cologne, Bachelor Inter-Media)
 
 ## Selection of workshops
 
-enim. Mauris lectus justo, scelerisque a imperdiet eget, ultrices rhoncus dolor. Aliquam sed pretium sem. Proin rutrum turpis mi, quis posuere arcu aliquet et. Donec pellentesque ante vitae sem maximus ornare. Curabitur venenatis ipsum mi, nec rhoncus lectus facilisis in. Pellentesque sed iaculis lacus. Integer vel dignissim enim, sit amet imperdiet quam.
-
-Nulla a placerat metus. In suscipit porta elit non porta. Sed mattis ipsum ac magna elementum laoreet. Sed et hendrerit justo, vitae convallis magna. Etiam eleifend felis ac nulla dignissim, ut accumsan est semper. Nam eget aliquam velit. Pellentesque eget enim erat. Maecenas fringilla eros sed ipsum gravida, at placerat nisl vulputate.
+- R (Master Psychology, University of Cologne | tyssenkrupp AG)
+- SPSS (Faculty of Law, University of Cologne | Regional computing center, University of Cologne | German Sport University)
+- How to deal with non significant p values (Albertus Magnus Graduate Center, University of Cologne)[Slides](https://osf.io/fvp9q/)
 
 ## Selection of conference talks
 
-Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fringilla bibendum dui. Vestibulum pellentesque, elit sit amet dictum tincidunt, nisl mauris vestibulum.
+- Aust, F., Heycke, T., & Stahl, C. (2018, September). Does it replicate? Using Bayesian model comparisons to evaluate replication attempts of specific 2×2-interaction patterns. Paper presented at DGPs Congress, Frankfurt, Germany. [Slides](https://crsh.github.io/ml-otm-dgps-slides/)
 
-[Complete List of all presentations](pages/talks.md)
+- Heycke, T. & Stahl, C. (2018, March). Automatic Preference Acquisition: Subliminal stimulus presentation in Evaluative Conditioning. Paper presented at the Tagung Experimentell Arbeitender Psychologen, Marburg, Germany.
+
+- Gawronski, B., & Heycke, T. (2017, October). Associative and propositional processes in evaluative conditioning: A multinomial modeling approach. Talk at the Annual Meeting of the Society of Experimental Social Psychology, Boston, MA, USA.
+
+- Heycke, T., Gehrmann, S., Haaf, J. & Stahl, C. (2017, January). Of two minds or one? A registered replication of Rydell et al. (2006). Paper presented at the SPSP preconference – Attitudes & Social Influence, San Antonio, USA.
+
+- Heycke, T., Aust, F., & Stahl, C. (2016, July). Subliminal CS Presentation in a Cross-Modal Evaluative Conditioning Paradigm. Paper presented at 5th European Meeting on the Psychology of Attitudes, Cologne, Germany.
+
+
+
+
 
 
 # Links
