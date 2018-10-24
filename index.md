@@ -2,10 +2,11 @@
 layout: default
 ---
 
+<center>
 
-
-![Tobias Heycke](img/TH.jpg)
-
+  <img src="img/TH.jpg">
+  
+</center>
 
 Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany.
 
