@@ -23,25 +23,39 @@ I am interesting in evaluative conditioning, subliminal influence and everything
 
 ## Education
 
-**PhD Candidate** *12/2013 – 07/2018* <br>
-*University of Cologne, Germany*
+**PhD in Psychology** *12/2013 – 07/2018* <br>
+*University of Cologne, Germany* <br>
 “Contingency awareness in evaluative conditioning: Investigations using subliminal stimulus presentations”
 
-**M. Sc., Research Master Behavioural Sciences** *09/2011 - 09/2013*
+**M. Sc., Research Master Behavioural Sciences** *09/2011 - 09/2013* <br>
 *Radboud University Nijmegen, Netherlands*
 
+**B. Sc., Psychology** *09/2007 - 09/2011*<br>
+Radboud University Nijmegen, Netherlands
 
-09/2007 - 09/2011	Radboud University Nijmegen, Netherlands
-B. Sc., Psychology 
-
-06/2007	Konrad-Adenauer-Gymnasium, Meckenheim, Germany
-	High School Diploma (Abitur)
+**High School Diploma (Abitur)** *06/2007* <br>	
+Konrad-Adenauer-Gymnasium, Meckenheim, Germany
 
 
+[..to be continued]
+
+<!--
 ## Professional Experience
-
+methexp
+lemon
+MPI
 ## Honors and Grants
-
+- Austin travel
+- SPSP travel
+- nachwuchs preis
+- psychology honours programm
+-buergerpreis meckenheim
+## Volunteer work
+- promovierendenvertreter
+- trion
+- SPS NIP
+- Kirchentag
+-->
 
 # Publications
 
