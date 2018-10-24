@@ -3,7 +3,9 @@ layout: default
 ---
 
 <center>
-![Tobias Heycke](img/TH.jpg)
+
+  ![Tobias Heycke](img/TH.jpg)
+  
 </center>
 
 Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany.
@@ -61,3 +63,4 @@ Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fri
 - [Twitter](https://twitter.com/TobiasHeycke)
 - [orcid](http://orcid.org/0000-0001-6358-6713)
 - Former group at [University of Cologne](http://methexp.uni-koeln.de/?page_id=1618&lang=de)
+- [Writing your dissertation in Markdown and papaja](http://rpubs.com/theycke/380678)
