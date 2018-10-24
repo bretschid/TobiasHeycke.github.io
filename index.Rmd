@@ -1,9 +1,0 @@
----
-title: "Welcome"
-output: html_document
----
-
-Tobias Heycke
-
-More information will follow soon
-
