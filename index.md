@@ -10,22 +10,41 @@ layout: default
 
 Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany. 
 
-I received my PhD in psychology from the University of Cologne and my research focuses on evaluative conditioning (especially with brief stimulus presentations). At GESIS I am implementing the GESIS Open Science Strategy. 
-I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshop, statistical methods....
-
 [Contact](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory%5bemail%5d=Tobias.Heycke@gesis.org&tx_gextstaffdir_staffdirectory%5baction%5d=details&tx_gextstaffdir_staffdirectory%5bcontroller%5d=Index&no_cache=1) |
 [Curriculum vitae](#curriculum-vitae) |
 [Publications](#publications) |
-[Talks & Teaching](#talks-&-teaching) |
+[Talks & Teaching](#talks) |
 [Links](#links)
+
+I received my PhD in psychology from the University of Cologne and my research focuses on evaluative conditioning (especially with brief stimulus presentations). At GESIS I am implementing the GESIS Open Science Strategy. 
+I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshop, statistical methods....
 
 # Curriculum vitae
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac cursus tellus. Praesent ullamcorper dapibus felis sit amet egestas. Aliquam et felis ut metus placerat eleifend a ut arcu. Cras efficitur facilisis felis, ultrices ultricies nulla mattis sed. Curabitur lacus dolor, lacinia id mollis quis, dictum ut orci. Quisque vitae lacinia risus, eget egestas elit. Duis placerat quis sapien non cursus. In id iaculis mi. Etiam sit amet egestas enim, in tincidunt enim. Mauris lectus justo, scelerisque a imperdiet eget, ultrices rhoncus dolor. Aliquam sed pretium sem. Proin rutrum turpis mi, quis posuere arcu aliquet et. Donec pellentesque ante vitae sem maximus ornare. Curabitur venenatis ipsum mi, nec rhoncus lectus facilisis in. Pellentesque sed iaculis lacus. Integer vel dignissim enim, sit amet imperdiet quam.
+## Education
 
-Nulla a placerat metus. In suscipit porta elit non porta. Sed mattis ipsum ac magna elementum laoreet. Sed et hendrerit justo, vitae convallis magna. Etiam eleifend felis ac nulla dignissim, ut accumsan est semper. Nam eget aliquam velit. Pellentesque eget enim erat. Maecenas fringilla eros sed ipsum gravida, at placerat nisl vulputate.
+**PhD Candidate** *12/2013 – 07/2018*
 
-Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fringilla bibendum dui. Vestibulum pellentesque, elit sit amet dictum tincidunt, nisl mauris vestibulum.
+*University of Cologne, Germany*
+
+“Contingency awareness in evaluative conditioning: Investigations using subliminal stimulus presentations”
+
+_M. Sc., Research Master Behavioural Sciences_ *09/2011 - 09/2013*
+
+*Radboud University Nijmegen, Netherlands*
+
+
+09/2007 - 09/2011	Radboud University Nijmegen, Netherlands
+B. Sc., Psychology 
+
+06/2007	Konrad-Adenauer-Gymnasium, Meckenheim, Germany
+	High School Diploma (Abitur)
+
+
+## Professional Experience
+
+## Honors and Grants
+
 
 # Publications
 
@@ -37,7 +56,7 @@ Heycke, T., Aust, F., & Stahl, C. (2017). Subliminal influence on preferences? A
 
 Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Sequential Pairings Under Incidental and Intentional Learning Conditions. *Social Cognition*, 34(5), 382–412. https://doi.org/10.1521/soco.2016.34.5.382
 
-# Talks & Teaching
+# Talks
 
 [Complete List of talks and teaching](pages/talks.md)
 
@@ -65,10 +84,6 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 - Heycke, T., Gehrmann, S., Haaf, J. & Stahl, C. (2017, January). Of two minds or one? A registered replication of Rydell et al. (2006). Paper presented at the SPSP preconference – Attitudes & Social Influence, San Antonio, USA.
 
 - Heycke, T., Aust, F., & Stahl, C. (2016, July). Subliminal CS Presentation in a Cross-Modal Evaluative Conditioning Paradigm. Paper presented at 5th European Meeting on the Psychology of Attitudes, Cologne, Germany.
-
-
-
-
 
 
 # Links
