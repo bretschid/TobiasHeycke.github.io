@@ -2,8 +2,10 @@
 layout: default
 ---
 
+![Tobias Heycke](img/TH.JPG)
 
-Welcome to my personal homepage. I am a postdoctoal researcher at [GESIS](https://gesis.org) in Mannheim Germany.
+
+Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany.
 
 [Institute Homepage](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory%5bemail%5d=Tobias.Heycke@gesis.org&tx_gextstaffdir_staffdirectory%5baction%5d=details&tx_gextstaffdir_staffdirectory%5bcontroller%5d=Index&no_cache=1) |
 [Curriculum vitae](#curriculum-vitae) |
