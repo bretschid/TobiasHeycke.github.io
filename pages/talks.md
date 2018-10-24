@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Main page](index.md)
+[Main page](../index.md)
 
 # Seminars
 
