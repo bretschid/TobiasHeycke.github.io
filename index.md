@@ -23,14 +23,11 @@ I am interesting in evaluative conditioning, subliminal influence and everything
 
 ## Education
 
-**PhD Candidate** *12/2013 – 07/2018*
-
+**PhD Candidate** *12/2013 – 07/2018* <br>
 *University of Cologne, Germany*
-
 “Contingency awareness in evaluative conditioning: Investigations using subliminal stimulus presentations”
 
-_M. Sc., Research Master Behavioural Sciences_ *09/2011 - 09/2013*
-
+**M. Sc., Research Master Behavioural Sciences** *09/2011 - 09/2013*
 *Radboud University Nijmegen, Netherlands*
 
 
