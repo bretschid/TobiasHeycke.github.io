@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Tobias Heycke](img/TH.JPG)
+![Tobias Heycke](img/TH.jpg)
 
 
 Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany.
@@ -11,7 +11,8 @@ Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https
 [Curriculum vitae](#curriculum-vitae) |
 [Publications](#publications) |
 [Talks](#talks) |
-[Teaching](#teaching)
+[Teaching](#teaching) |
+[Links](#links)
 
 # Curriculum vitae
 
@@ -52,3 +53,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac cursus tellus. Pr
 Nulla a placerat metus. In suscipit porta elit non porta. Sed mattis ipsum ac magna elementum laoreet. Sed et hendrerit justo, vitae convallis magna. Etiam eleifend felis ac nulla dignissim, ut accumsan est semper. Nam eget aliquam velit. Pellentesque eget enim erat. Maecenas fringilla eros sed ipsum gravida, at placerat nisl vulputate.
 
 Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fringilla bibendum dui. Vestibulum pellentesque, elit sit amet dictum tincidunt, nisl mauris vestibulum.
+
+# Links
+
+- My [OSF repository](https://osf.io/q5eak)
+- [Twitter](https://twitter.com/TobiasHeycke)
+- [orcid](http://orcid.org/0000-0001-6358-6713)
+
