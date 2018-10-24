@@ -2,6 +2,6 @@
 layout: default
 ---
 
-[Main page](../index.md)
+[Back to main page](../index.md)
 
 *under construction*
