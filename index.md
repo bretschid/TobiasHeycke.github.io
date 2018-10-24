@@ -8,9 +8,9 @@ layout: default
   
 </center>
 
-Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany.
+Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany. I received my PhD in psychology from the University of Cologne and my research focuses on evaluative conditioning (especially with brief stimulus presentations). At GESIS I am implementing the GESIS Open Science Strategy. I am interesting in everything connected to Open Science in all disciplines, statistical methods, R, RMarkdown, evaluative conditioning, subliminal influence....
 
-[Institute Homepage](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory%5bemail%5d=Tobias.Heycke@gesis.org&tx_gextstaffdir_staffdirectory%5baction%5d=details&tx_gextstaffdir_staffdirectory%5bcontroller%5d=Index&no_cache=1) |
+[Contact](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory%5bemail%5d=Tobias.Heycke@gesis.org&tx_gextstaffdir_staffdirectory%5baction%5d=details&tx_gextstaffdir_staffdirectory%5bcontroller%5d=Index&no_cache=1) |
 [Curriculum vitae](#curriculum-vitae) |
 [Publications](#publications) |
 [Talks & Teaching](#talks-&-teaching) |
@@ -26,19 +26,13 @@ Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fri
 
 # Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac cursus tellus. Praesent ullamcorper dapibus felis sit amet egestas. Aliquam et felis ut metus placerat eleifend a ut arcu. Cras efficitur facilisis felis, ultrices ultricies nulla mattis sed. Curabitur lacus dolor, lacinia id mollis quis, dictum ut orci. Quisque vitae lacinia risus, eget egestas elit. Duis placerat quis sapien non cursus. In id iaculis mi. Etiam sit amet egestas enim, in tincidunt enim. Mauris lectus justo, scelerisque a imperdiet eget, ultrices rhoncus dolor. Aliquam sed pretium sem. Proin rutrum turpis mi, quis posuere arcu aliquet et. Donec pellentesque ante vitae sem maximus ornare. Curabitur venenatis ipsum mi, nec rhoncus lectus facilisis in. Pellentesque sed iaculis lacus. Integer vel dignissim enim, sit amet imperdiet quam.
+Heycke, T., & Stahl, C. (2018). No evaluative conditioning effects with briefly presented stimuli. *Psychological Research*. https://doi.org/10.1007/s00426-018-1109-1
 
-Nulla a placerat metus. In suscipit porta elit non porta. Sed mattis ipsum ac magna elementum laoreet. Sed et hendrerit justo, vitae convallis magna. Etiam eleifend felis ac nulla dignissim, ut accumsan est semper. Nam eget aliquam velit. Pellentesque eget enim erat. Maecenas fringilla eros sed ipsum gravida, at placerat nisl vulputate.
+Heycke, T., Gehrmann, S., Haaf, J. M., & Stahl, C. (2018). Of two minds or one? A registered replication of Rydell et al. (2006). *Cognition and Emotion*, 0(0), 1–20. doi:10.1080/02699931.2018.1429389 [PDF](https://osf.io/tsvkd/) & [additional material](https://osf.io/c57sr/)
 
-Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fringilla bibendum dui. Vestibulum pellentesque, elit sit amet dictum tincidunt, nisl mauris vestibulum.
+Heycke, T., Aust, F., & Stahl, C. (2017). Subliminal influence on preferences? A test of evaluative conditioning for brief visual conditioned stimuli using auditory unconditioned stimuli. *Royal Society Open Science*, 4, 160935. doi: 10.1098/rsos.160935 [PDF](https://doi.org/10.1098/rsos.160935) & [additional material](https://osf.io/cx5eh/)
 
-# Publications
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac cursus tellus. Praesent ullamcorper dapibus felis sit amet egestas. Aliquam et felis ut metus placerat eleifend a ut arcu. Cras efficitur facilisis felis, ultrices ultricies nulla mattis sed. Curabitur lacus dolor, lacinia id mollis quis, dictum ut orci. Quisque vitae lacinia risus, eget egestas elit. Duis placerat quis sapien non cursus. In id iaculis mi. Etiam sit amet egestas enim, in tincidunt enim. Mauris lectus justo, scelerisque a imperdiet eget, ultrices rhoncus dolor. Aliquam sed pretium sem. Proin rutrum turpis mi, quis posuere arcu aliquet et. Donec pellentesque ante vitae sem maximus ornare. Curabitur venenatis ipsum mi, nec rhoncus lectus facilisis in. Pellentesque sed iaculis lacus. Integer vel dignissim enim, sit amet imperdiet quam.
-
-Nulla a placerat metus. In suscipit porta elit non porta. Sed mattis ipsum ac magna elementum laoreet. Sed et hendrerit justo, vitae convallis magna. Etiam eleifend felis ac nulla dignissim, ut accumsan est semper. Nam eget aliquam velit. Pellentesque eget enim erat. Maecenas fringilla eros sed ipsum gravida, at placerat nisl vulputate.
-
-Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fringilla bibendum dui. Vestibulum pellentesque, elit sit amet dictum tincidunt, nisl mauris vestibulum.
+Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Sequential Pairings Under Incidental and Intentional Learning Conditions. *Social Cognition*, 34(5), 382–412. https://doi.org/10.1521/soco.2016.34.5.382
 
 # Talks & Teaching
 
@@ -53,8 +47,8 @@ Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fri
 
 ## Selection of workshops
 
-- R (Master Psychology, University of Cologne | tyssenkrupp AG)
-- SPSS (Faculty of Law, University of Cologne | Regional computing center, University of Cologne | German Sport University)
+- R (Master Psychology, University of Cologne & tyssenkrupp AG)
+- SPSS (Faculty of Law, University of Cologne & Regional computing center, University of Cologne & German Sport University)
 - How to deal with non significant p values (Albertus Magnus Graduate Center, University of Cologne)[Slides](https://osf.io/fvp9q/)
 
 ## Selection of conference talks
