@@ -8,7 +8,10 @@ layout: default
   
 </center>
 
-Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany. I received my PhD in psychology from the University of Cologne and my research focuses on evaluative conditioning (especially with brief stimulus presentations). At GESIS I am implementing the GESIS Open Science Strategy. I am interesting in everything connected to Open Science in all disciplines, statistical methods, R, RMarkdown, evaluative conditioning, subliminal influence....
+Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany. 
+
+I received my PhD in psychology from the University of Cologne and my research focuses on evaluative conditioning (especially with brief stimulus presentations). At GESIS I am implementing the GESIS Open Science Strategy. 
+I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshop, statistical methods....
 
 [Contact](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory%5bemail%5d=Tobias.Heycke@gesis.org&tx_gextstaffdir_staffdirectory%5baction%5d=details&tx_gextstaffdir_staffdirectory%5bcontroller%5d=Index&no_cache=1) |
 [Curriculum vitae](#curriculum-vitae) |
@@ -26,7 +29,7 @@ Mauris consectetur sem lacus. Vestibulum lacus massa, pretium nec felis vel, fri
 
 # Publications
 
-Heycke, T., & Stahl, C. (2018). No evaluative conditioning effects with briefly presented stimuli. *Psychological Research*. https://doi.org/10.1007/s00426-018-1109-1
+Heycke, T., & Stahl, C. (2018). No evaluative conditioning effects with briefly presented stimuli. *Psychological Research*. https://doi.org/10.1007/s00426-018-1109-1 [PDF](https://psyarxiv.com/ujq4g/) & [additional material](https://osf.io/3dn7e/files/)
 
 Heycke, T., Gehrmann, S., Haaf, J. M., & Stahl, C. (2018). Of two minds or one? A registered replication of Rydell et al. (2006). *Cognition and Emotion*, 0(0), 1–20. doi:10.1080/02699931.2018.1429389 [PDF](https://osf.io/tsvkd/) & [additional material](https://osf.io/c57sr/)
 
@@ -70,8 +73,8 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 
 # Links
 
-- My [OSF repository](https://osf.io/q5eak)
+- [My OSF repository](https://osf.io/q5eak)
 - [Twitter](https://twitter.com/TobiasHeycke)
 - [orcid](http://orcid.org/0000-0001-6358-6713)
-- Former group at [University of Cologne](http://methexp.uni-koeln.de/?page_id=1618&lang=de)
-- [Writing your dissertation in Markdown and papaja](http://rpubs.com/theycke/380678)
+- [Former group at University of Cologne](http://methexp.uni-koeln.de/)
+- [Blog on writing your dissertation in Markdown and papaja](http://rpubs.com/theycke/380678)
