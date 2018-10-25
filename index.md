@@ -81,8 +81,9 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 ## Selection of workshops
 
 - R (Master Psychology, University of Cologne & tyssenkrupp AG)
-- SPSS (Faculty of Law, University of Cologne & Regional computing center, University of Cologne & German Sport University)
 - How to deal with non significant p values (Albertus Magnus Graduate Center, University of Cologne)[Slides](https://osf.io/fvp9q/)
+- Introduction to git (internal GESIS Workshop)
+- SPSS (Faculty of Law, University of Cologne & Regional computing center, University of Cologne & German Sport University)
 
 ## Selection of conference talks
 
