@@ -17,7 +17,7 @@ Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https
 [Links](#links)
 
 At GESIS I am implementing the GESIS Open Science Strategy. 
-I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshop, statistical methods....
+I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshops, statistical methods....
 
 # Curriculum vitae
 
