@@ -16,7 +16,7 @@ Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https
 [Talks & Teaching](#talks) |
 [Links](#links)
 
-I received my PhD in psychology from the University of Cologne and my research focuses on evaluative conditioning (especially with brief stimulus presentations). At GESIS I am implementing the GESIS Open Science Strategy. 
+At GESIS I am implementing the GESIS Open Science Strategy. 
 I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshop, statistical methods....
 
 # Curriculum vitae
