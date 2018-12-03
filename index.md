@@ -46,7 +46,7 @@ Implementing the GESIS Open Science Strategy.
 My work consists of all aspects of changing the science culture towards a more open culture.
 I give talks on the importance of open science and organize and teach workshops on open science tools.
 
-**Research associate at the Chair for Research Methods and Experimental Psychology ** *12/2013 - 09/2018* <br>
+**Research associate at the Chair for Research Methods and Experimental Psychology** *12/2013 - 09/2018* <br>
 *University of Cologne, Germany* <br>
 Teaching in the Bachelor and Master of Psychology and the Bachelor Inter-Media.
 
