@@ -61,7 +61,7 @@ MPI
 
 Heycke, T., & Stahl, C. (2018). No evaluative conditioning effects with briefly presented stimuli. *Psychological Research*. https://doi.org/10.1007/s00426-018-1109-1 [PDF](https://psyarxiv.com/ujq4g/) & [additional material](https://osf.io/3dn7e/files/)
 
-Heycke, T., Gehrmann, S., Haaf, J. M., & Stahl, C. (2018). Of two minds or one? A registered replication of Rydell et al. (2006). *Cognition and Emotion*, 0(0), 1–20. doi:10.1080/02699931.2018.1429389 [PDF](https://osf.io/tsvkd/) & [additional material](https://osf.io/c57sr/)
+Heycke, T., Gehrmann, S., Haaf, J. M., & Stahl, C. (2018). Of two minds or one? A registered replication of Rydell et al. (2006). *Cognition and Emotion*, 32(8), 1708–1727. https://doi.org/10.1080/02699931.2018.1429389 [PDF](https://osf.io/tsvkd/) & [additional material](https://osf.io/c57sr/)
 
 Heycke, T., Aust, F., & Stahl, C. (2017). Subliminal influence on preferences? A test of evaluative conditioning for brief visual conditioned stimuli using auditory unconditioned stimuli. *Royal Society Open Science*, 4, 160935. doi: 10.1098/rsos.160935 [PDF](https://doi.org/10.1098/rsos.160935) & [additional material](https://osf.io/cx5eh/)
 
