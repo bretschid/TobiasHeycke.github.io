@@ -18,12 +18,11 @@ Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https
 [Talks & Teaching](#talks) |
 [Links](#links)
 
-At GESIS I am implementing the GESIS Open Science Strategy. 
-I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshops, statistical methods....
+I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshops, statistical methods.
 
 # Curriculum vitae
 
-## Education
+### Education
 
 **PhD in Psychology** *12/2013 – 07/2018* <br>
 *University of Cologne, Germany* <br>
@@ -33,30 +32,44 @@ I am interesting in evaluative conditioning, subliminal influence and everything
 *Radboud University Nijmegen, Netherlands*
 
 **B. Sc., Psychology** *09/2007 - 09/2011*<br>
-Radboud University Nijmegen, Netherlands
+*Radboud University Nijmegen, Netherlands*
 
 **High School Diploma (Abitur)** *06/2007* <br>	
-Konrad-Adenauer-Gymnasium, Meckenheim, Germany
+*Konrad-Adenauer-Gymnasium, Meckenheim, Germany*
 
 
-[..to be continued]
+### Professional Experience
+
+**Postdoctoral researcher** *Since 09/2018* <br>
+*GESIS – Leibniz Institute for the Social Sciences* <br>
+Implementing the GESIS Open Science Strategy. 
+My work consists of all aspects of changing the science culture towards a more open culture.
+I give talks on the importance of open science and organize and teach workshops on open science tools.
+
+**Research associate at the Chair for Research Methods and Experimental Psychology ** *12/2013 - 09/2018* <br>
+*University of Cologne, Germany* <br>
+Teaching in the Bachelor and Master of Psychology and the Bachelor Inter-Media.
+
+**Project Manager of an online learning platform** *09/2014 - 09/2018* <br>
+*University of Cologne, Germany* <br>
+Coordinating the work of software developers and student-assistants.
+
+**Student assistant at the Language and Cognition group** *03/2009 - 09/2011* <br>
+*Max Planck Institute for Psycholinguistics* <br>
 
 <!--
-## Professional Experience
-methexp
-lemon
-MPI
+## Volunteer work
+- promovierendenvertreter
+- trion
+- SPS NIP
+- Kirchentag
+
 ## Honors and Grants
 - Austin travel
 - SPSP travel
 - nachwuchs preis
 - psychology honours programm
 -buergerpreis meckenheim
-## Volunteer work
-- promovierendenvertreter
-- trion
-- SPS NIP
-- Kirchentag
 -->
 
 # Publications
