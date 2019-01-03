@@ -5,7 +5,7 @@ layout: default
 # Installing a complete MiKTeX distribution (Windows)
 
 If you are using the papaja package, life will be easier if you install a complete MiKTeX system. 
-Even when you install missing packages on-the-fly (see [Automatic package installation](https://miktex.org/howto/miktex-console)) I experienced problems (e.g., when knitting a document in journal style). 
+Even when you install missing packages on-the-fly (see [automatic package installation](https://miktex.org/howto/miktex-console)) I experienced problems (e.g., when knitting a document in journal style). 
 I therefore reccomend installing the full MiKTeX system, even though it is quite large.
 Here is a simple step by step guide:
 
