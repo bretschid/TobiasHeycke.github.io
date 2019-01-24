@@ -13,11 +13,11 @@ Here is a simple step by step guide:
 
 - Go to the [MiKTeX Download page](https://miktex.org/download)
 - Go to 'All downloads'
-- Select the 'Net Installer' ([32 or 64 Bit depending on your system](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64)
+- Select the 'Net Installer' ([32 or 64 Bit depending on your system](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64))
 - Download the file (named: 'setup' plus a version number)
 - Run this file
 - Accept the terms and conditions and continue
-- Select Download MiKTeX and continue
+- Select 'Download MiKTeX' and continue
 - Now the important part: Select 'Complete MiKTeX' and continue
 - Select your favorite download source and continue (make sure the source is not just D:/Downloads but D:/Downloads/MiKTeX, otherwise you will have thousands of individual files in your downloads folder)
 - Select a downloads folder, remember the location, and continue
